@@ -1,0 +1,8 @@
+E:\C#\HelloWorld\BAI_1.3_NhapXuatGiaTriTuBanPhim\bin\Release\BAI_1.3_NhapXuatGiaTriTuBanPhim.exe.config
+E:\C#\HelloWorld\BAI_1.3_NhapXuatGiaTriTuBanPhim\bin\Release\BAI_1.3_NhapXuatGiaTriTuBanPhim.exe
+E:\C#\HelloWorld\BAI_1.3_NhapXuatGiaTriTuBanPhim\bin\Release\BAI_1.3_NhapXuatGiaTriTuBanPhim.pdb
+E:\C#\HelloWorld\BAI_1.3_NhapXuatGiaTriTuBanPhim\obj\Release\BAI_1.3_NhapXuatGiaTriTuBanPhim.csproj.AssemblyReference.cache
+E:\C#\HelloWorld\BAI_1.3_NhapXuatGiaTriTuBanPhim\obj\Release\BAI_1.3_NhapXuatGiaTriTuBanPhim.csproj.SuggestedBindingRedirects.cache
+E:\C#\HelloWorld\BAI_1.3_NhapXuatGiaTriTuBanPhim\obj\Release\BAI_1.3_NhapXuatGiaTriTuBanPhim.csproj.CoreCompileInputs.cache
+E:\C#\HelloWorld\BAI_1.3_NhapXuatGiaTriTuBanPhim\obj\Release\BAI_1.3_NhapXuatGiaTriTuBanPhim.exe
+E:\C#\HelloWorld\BAI_1.3_NhapXuatGiaTriTuBanPhim\obj\Release\BAI_1.3_NhapXuatGiaTriTuBanPhim.pdb

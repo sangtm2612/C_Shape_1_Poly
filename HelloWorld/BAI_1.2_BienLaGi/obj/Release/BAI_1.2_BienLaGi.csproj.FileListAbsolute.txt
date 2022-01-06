@@ -1,0 +1,8 @@
+E:\C#\HelloWorld\BAI_1.2_BienLaGi\bin\Release\BAI_1.2_BienLaGi.exe.config
+E:\C#\HelloWorld\BAI_1.2_BienLaGi\bin\Release\BAI_1.2_BienLaGi.exe
+E:\C#\HelloWorld\BAI_1.2_BienLaGi\bin\Release\BAI_1.2_BienLaGi.pdb
+E:\C#\HelloWorld\BAI_1.2_BienLaGi\obj\Release\BAI_1.2_BienLaGi.csproj.AssemblyReference.cache
+E:\C#\HelloWorld\BAI_1.2_BienLaGi\obj\Release\BAI_1.2_BienLaGi.csproj.SuggestedBindingRedirects.cache
+E:\C#\HelloWorld\BAI_1.2_BienLaGi\obj\Release\BAI_1.2_BienLaGi.csproj.CoreCompileInputs.cache
+E:\C#\HelloWorld\BAI_1.2_BienLaGi\obj\Release\BAI_1.2_BienLaGi.exe
+E:\C#\HelloWorld\BAI_1.2_BienLaGi\obj\Release\BAI_1.2_BienLaGi.pdb

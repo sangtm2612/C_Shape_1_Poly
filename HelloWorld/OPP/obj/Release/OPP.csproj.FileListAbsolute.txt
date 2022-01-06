@@ -1,0 +1,8 @@
+E:\C#\HelloWorld\OPP\bin\Release\OPP.exe.config
+E:\C#\HelloWorld\OPP\bin\Release\OPP.exe
+E:\C#\HelloWorld\OPP\bin\Release\OPP.pdb
+E:\C#\HelloWorld\OPP\obj\Release\OPP.csproj.AssemblyReference.cache
+E:\C#\HelloWorld\OPP\obj\Release\OPP.csproj.SuggestedBindingRedirects.cache
+E:\C#\HelloWorld\OPP\obj\Release\OPP.csproj.CoreCompileInputs.cache
+E:\C#\HelloWorld\OPP\obj\Release\OPP.exe
+E:\C#\HelloWorld\OPP\obj\Release\OPP.pdb

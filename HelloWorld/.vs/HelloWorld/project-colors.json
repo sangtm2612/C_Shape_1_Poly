@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6be9439d-6c3c-4886-bf86-004823e6f8e4": {
+      "ProjectGuid": "6be9439d-6c3c-4886-bf86-004823e6f8e4",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "3641cf1a-11bf-4c03-af6c-e68bdfcb79fe": {
+      "ProjectGuid": "3641cf1a-11bf-4c03-af6c-e68bdfcb79fe",
+      "DisplayName": "BAI_1.1_LamQuenVoiCSharp",
+      "ColorIndex": 1
+    },
+    "5eb978af-33c7-40c0-8fab-67fddca35cf3": {
+      "ProjectGuid": "5eb978af-33c7-40c0-8fab-67fddca35cf3",
+      "DisplayName": "Lab1_Poly",
+      "ColorIndex": 2
+    },
+    "14ffff9d-f051-4e3c-a6fb-fbbb401f23be": {
+      "ProjectGuid": "14ffff9d-f051-4e3c-a6fb-fbbb401f23be",
+      "DisplayName": "OPP",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

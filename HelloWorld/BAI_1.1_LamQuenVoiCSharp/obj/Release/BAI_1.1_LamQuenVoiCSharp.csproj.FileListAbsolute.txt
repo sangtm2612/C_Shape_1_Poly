@@ -1,0 +1,7 @@
+E:\C#\HelloWorld\BAI_1.1_LamQuenVoiCSharp\bin\Release\BAI_1.1_LamQuenVoiCSharp.exe.config
+E:\C#\HelloWorld\BAI_1.1_LamQuenVoiCSharp\bin\Release\BAI_1.1_LamQuenVoiCSharp.exe
+E:\C#\HelloWorld\BAI_1.1_LamQuenVoiCSharp\bin\Release\BAI_1.1_LamQuenVoiCSharp.pdb
+E:\C#\HelloWorld\BAI_1.1_LamQuenVoiCSharp\obj\Release\BAI_1.1_LamQuenVoiCSharp.csproj.SuggestedBindingRedirects.cache
+E:\C#\HelloWorld\BAI_1.1_LamQuenVoiCSharp\obj\Release\BAI_1.1_LamQuenVoiCSharp.csproj.CoreCompileInputs.cache
+E:\C#\HelloWorld\BAI_1.1_LamQuenVoiCSharp\obj\Release\BAI_1.1_LamQuenVoiCSharp.exe
+E:\C#\HelloWorld\BAI_1.1_LamQuenVoiCSharp\obj\Release\BAI_1.1_LamQuenVoiCSharp.pdb
